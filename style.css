@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+   width: fit-content;
+   height: fit-content;
+   margin: auto;
+   background-color: aquamarine;
+   border-radius: 10px;
+}
+.btn{
+    background-color: black;
+    margin: 6px;
+    border: 2px solid red;
+    height: 30px;
+    width: 30px;
+    color: antiquewhite;
+    
+}
+.btn:hover{
+    background-color: chartreuse;
+    color: royalblue;
+}
+
